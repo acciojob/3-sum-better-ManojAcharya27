@@ -1,4 +1,4 @@
-function threeSum(arr, target) {
+function threeSum(s, target) {
 // write your code here
    S.sort((a, b) => a - b);
 
